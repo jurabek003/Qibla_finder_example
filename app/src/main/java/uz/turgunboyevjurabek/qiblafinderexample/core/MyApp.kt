@@ -1,4 +1,4 @@
-package uz.turgunboyevjurabek.qiblafinderexample
+package uz.turgunboyevjurabek.qiblafinderexample.core
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

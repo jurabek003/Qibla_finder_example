@@ -1,4 +1,4 @@
-package uz.turgunboyevjurabek.qiblafinderexample
+package uz.turgunboyevjurabek.qiblafinderexample.core
 
 import android.content.Context
 import android.hardware.SensorManager

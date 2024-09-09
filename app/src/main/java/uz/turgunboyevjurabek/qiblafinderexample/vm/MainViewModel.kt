@@ -1,4 +1,4 @@
-package uz.turgunboyevjurabek.qiblafinderexample
+package uz.turgunboyevjurabek.qiblafinderexample.vm
 
 import android.util.Log
 import androidx.lifecycle.ViewModel
@@ -6,6 +6,7 @@ import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
+import uz.turgunboyevjurabek.qiblafinderexample.QiblaState
 import javax.inject.Inject
 
 @HiltViewModel
